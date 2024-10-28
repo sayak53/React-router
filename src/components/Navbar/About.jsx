@@ -2,7 +2,7 @@
 const About = () => {
     return (
         <div>
-            <h1>All about sex</h1>
+            <h2>This is all about Sex</h2>
         </div>
     );
 };
