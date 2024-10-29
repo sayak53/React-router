@@ -20,3 +20,9 @@
     grid-template-columns: repeat(3,1fr);
     margin-left: 50px;
 }
+.post-section{
+    border: 2px solid red;
+    border-radius: 20px;
+    margin-top: 16px;
+    padding: 15px;
+}

@@ -6,6 +6,7 @@ const Header = () => {
         <div className="anchors">
             <Link to={'/Home'}>Home</Link>
             <Link to={'/Users'}>Users</Link>
+            <Link to={'/Posts'}>Posts</Link>
             <Link to={'/About'}>About</Link>
             <Link to={'/Contact'}>Contact Us</Link>
         </div>
