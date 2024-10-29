@@ -10,6 +10,9 @@ const Header = () => {
             <Link to={'/Contact'}>Contact Us</Link>
         </div>
           <Outlet></Outlet>
+          <div>
+            <h1 className="Outlet">Thank you for visting our Website and have fun during sex.........</h1>
+          </div>
         </div>
         
     );
